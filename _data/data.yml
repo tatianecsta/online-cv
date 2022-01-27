@@ -7,12 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tatiane Costaaa
+    name: Tatiane Costa
     tagline: Human Resources Professional
     avatar: <a href="https://imgbb.com/"><img src="https://i.ibb.co/2W1KS82/97565082.jpg" alt="97565082" border="0"></a>
 
     # Sidebar links
     email: tatiane.csta@gmail.com
+    Linkedin: tatianecsta
     phone: +351 934706862
     github: tatianecsta
 
