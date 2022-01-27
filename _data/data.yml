@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Tatiane Costa
     tagline: Human Resources Professional
-    avatar: 
+    avatar: <a href="https://imgbb.com/"><img src="https://i.ibb.co/2W1KS82/97565082.jpg" alt="97565082" border="0"></a>
 
     # Sidebar links
     email: tatiane.csta@gmail.com
@@ -47,7 +47,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: Bachelor's
       university: Bristol University
       time: 2007 - 2011
       details: |
